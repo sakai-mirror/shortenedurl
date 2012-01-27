@@ -50,9 +50,9 @@
     </modules>
     
     <scm>
-        <connection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.x</connection>
-        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.x</developerConnection>
-        <url>https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.x</url>
+        <connection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.0-b02</connection>
+        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.0-b02</developerConnection>
+        <url>https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.0-b02</url>
     </scm>
     
     <distributionManagement>
