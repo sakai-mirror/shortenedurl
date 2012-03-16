@@ -55,14 +55,6 @@
         <url>https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.x</url>
     </scm>
     
-    <distributionManagement>
-        <site>
-            <id>sakai-site</id>
-            <name>Sakai release Site</name>
-            <url>scpexe://source.sakaiproject.org/var/www/html/release/shortenedurl/${project.version}</url>
-        </site>
-    </distributionManagement>
-    
 	<dependencyManagement>
 		<dependencies>
 			
