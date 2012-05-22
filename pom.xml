@@ -11,7 +11,7 @@
 	<name>Sakai Shortened URL Service</name>
 	<groupId>org.sakaiproject.shortenedurl</groupId>
 	<artifactId>shortenedurl</artifactId>
-	<version>1.0.5-SNAPSHOT</version>
+	<version>1.0.5</version>
     <packaging>pom</packaging>
 
 	<organization>
@@ -54,9 +54,9 @@
    </properties>
     
     <scm>
-        <connection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.0.x</connection>
-        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.0.x</developerConnection>
-        <url>https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.0.x</url>
+        <connection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/tags/shortenedurl-1.0.5</connection>
+        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/tags/shortenedurl-1.0.5</developerConnection>
+        <url>https://source.sakaiproject.org/svn/shortenedurl/tags/shortenedurl-1.0.5</url>
     </scm>
     
     <distributionManagement>
