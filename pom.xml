@@ -5,13 +5,13 @@
     <parent>
         <groupId>org.sakaiproject</groupId>
         <artifactId>master</artifactId>
-        <version>2.9-SNAPSHOT</version>
+        <version>2.9.0-b06</version>
     </parent>
     
 	<name>Sakai Shortened URL Service</name>
 	<groupId>org.sakaiproject.shortenedurl</groupId>
 	<artifactId>shortenedurl</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.1.0-b06</version>
     <packaging>pom</packaging>
 
 	<organization>
@@ -50,9 +50,9 @@
     </modules>
     
     <scm>
-        <connection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.x</connection>
-        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.x</developerConnection>
-        <url>https://source.sakaiproject.org/svn/shortenedurl/branches/shortenedurl-1.1.x</url>
+        <connection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/tags/shortenedurl-1.1.0-b06</connection>
+        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/shortenedurl/tags/shortenedurl-1.1.0-b06</developerConnection>
+        <url>https://source.sakaiproject.org/svn/shortenedurl/tags/shortenedurl-1.1.0-b06</url>
     </scm>
     
 	<dependencyManagement>
